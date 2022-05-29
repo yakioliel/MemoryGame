@@ -1,0 +1,3 @@
+The memory game of the my family
+for children aged 4 and up Every two clicks a function checks a match If there is a match you win a bank if not the cards turn back.
+the kids Can learn coordination skills (working with the mouse) Memory Learning numbers (because with each match of the cards the number increases) U can use it with pictures of your family, all u need its to change the photo in img folder. and to change the namre in the arry of js .file
